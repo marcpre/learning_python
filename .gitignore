@@ -1,4 +1,3 @@
-
 # Created by https://www.gitignore.io/api/python
 
 ### Python ###
@@ -69,6 +68,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.src/Python Programming Course/.ipynb_checkpoints
 
 # pyenv
 .python-version
