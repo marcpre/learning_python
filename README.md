@@ -51,6 +51,9 @@ Code to Markdown
 
 <kbd>Esc</kbd> and then <kbd>M</kbd>
 
+## Add Cell
+
+Press <kbd>a</kbd>
 
 
-
+--> further at 02/006
