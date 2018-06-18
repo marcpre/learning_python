@@ -56,4 +56,9 @@ Code to Markdown
 Press <kbd>a</kbd>
 
 
+## Autocompletion
+
+Press <kbd>Tab</kbd>
+
+
 --> further at 03/018
