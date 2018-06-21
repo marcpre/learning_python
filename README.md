@@ -60,5 +60,25 @@ Press <kbd>a</kbd>
 
 Press <kbd>Tab</kbd>
 
+## Install packages in Jupyter notebook
+
+### Conda
+
+```
+import sys
+!conda install --yes --prefix {sys.prefix} matplotlib
+```
+
+### Pip
+
+```
+import sys
+!{sys.executable} -m pip install numpy
+```
+
+[https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/)
+
+
+
 
 --> further at 04/025
