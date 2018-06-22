@@ -69,6 +69,10 @@ import sys
 !conda install --yes --prefix {sys.prefix} matplotlib
 ```
 
+Hint: Install `pip install matplotlib==2.0.2`
+
+[python 2.7 functools_lru_cache does not import although installed](https://stackoverflow.com/questions/47179433/python-2-7-functools-lru-cache-does-not-import-although-installed)
+
 ### Pip
 
 ```
@@ -81,4 +85,4 @@ import sys
 
 
 
---> further at 04/025
+--> further at 04/029
