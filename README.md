@@ -44,6 +44,11 @@ $ conda install jupyter
 
 Then the selector should turn blue and you can move it around.
 
+### Show further information about variable
+
+<kbd>Shift</kbd> + <kbd>Tab</kbd>
+
+
 ### Switch Mode
 
 F.ex.:
